@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 
 :root {
-    --bgColor: #223344;
-    --bgColor2: #090a0f;
-    --accentColor: #FFF;
+    --bgColor: #44223e;
+    --bgColor2: #24141a;
+    --accentColor: #f58ef5;
     --font: 'Karla', sans-serif;
     --delay: .3s;
 }
@@ -25,8 +25,8 @@ body {
 
 #profilePicture, #profilePicture img {
     position: relative;
-    width: 96px;
-    height: 96px;
+    width: 149px;
+    height: 149px;
     display: block;
     margin: 40px auto 20px;
     border-radius: 50%;
@@ -35,7 +35,7 @@ body {
 
 #userName {
     color: var(--accentColor);
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: bold;
     line-height: 1.25;
     display: block;
